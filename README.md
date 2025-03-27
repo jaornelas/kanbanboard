@@ -3,6 +3,10 @@
 
 ## Description
 practicing authentication with JWTs for full-stack applications. Creating a Kanban board application that displays specific user information
+<br><br>
+![Demonstration](./images/screenCapture1.png)
+![Demonstration](./images/screenCapture2.png)
+![Demonstration](./images/screenCapture3.png)
 
 ## Instructions
 Click on the link provided to the run the deployed application. If installing and running locally, run the following command(s) in your CLI:
